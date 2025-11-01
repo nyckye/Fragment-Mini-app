@@ -1,3 +1,7 @@
+// Установка зависимостей:
+// dotnet add package Newtonsoft.Json
+// dotnet add package TonSdk.NET (или аналог для работы с TON)
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
