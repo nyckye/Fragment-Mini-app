@@ -1,0 +1,26 @@
+# TON API - получи на https://tonconsole.com
+API_TON=AFBBX5JIPQTY34QAAAACET72N6ZKJXJBNCVHMQTRUJXLMJ5GEDCRO349TH25Y
+
+# TON Wallet - твои 24 слова через запятую
+MNEMONIC=penalty,udo,face,place,brand,south,laguar,cage,coconut,girl,lyrics,ozone,fence,riot,apology,diagram,nature,manage,there,brief,wet,pole,debris,annual
+
+# Fragment Hash - из DevTools на fragment.com
+FRAGMENT_HASH=ed3ec87537884cea
+
+# Fragment Cookies - из DevTools
+STEL_SSID=522d1a5498d3491287_1506379293792720662
+STEL_DT=-240
+STEL_TON_TOKEN=DDaP0Guf7GdN5CLmPHpbUDGOEYIGlwiyphlfreogeqNeJ2EFEilAtv66VQsWxBq-BWWfbzu1ttHvZ3tbdOOsd0Fgbc_PFPuy3EpuALgkfHufm-Rq8LL0C2nNvjujvaUyoRJqCgLKtfq_fMri-BIMbc6bmSj21->
+STEL_TOKEN=6b0c739c93735d9803e3972ec74879946b0c73866b0c759648dca38b317629f55feb6
+
+# Остальные Fragment данные
+FRAGMENT_PUBLICKEY=91b296c356bb0894b40397b545vehrpre1f4b29ea610b8e14d2ae1136a50c5d1d03
+FRAGMENT_WALLETS=te6cckECFgEAArEAAgE0AQsBFfirepP8A9KQT9LzyyAsCAgEgAwYCAUgMBAIBIAgFABm+Xw9qJoQICg65D6AsAQLyBwEeINcLH4IQc2lnbrry4Ip/DQIBIAkTAgFuChIAGa3OdqJoQCDrkOuF/8AAUYAAAAA///+Il7w>
+FRAGMENT_ADDRESS=0:20c429e3bb195f46a582c10eb6erewrf87c6ed182ec58237a55787f245ec992c337118
+
+ALLOWED_ORIGINS=https://webstorstars.duckdns.org
+
+BOT_TOKEN=8308688464:DGucd93ytfkewodhe830547dcDUDj
+ADMIN_TELEGRAM_ID=811893749
+
+WALLET_ADDRESS=UQB-09E7MDYDUGOIWEG843932-2RJ
